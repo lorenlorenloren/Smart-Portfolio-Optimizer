@@ -222,7 +222,7 @@ MIT License - see LICENSE file
 
 For questions or collaboration:
 - GitHub: [@lorenlorenloren](https://github.com/lorenlorenloren)
-- Email: your.email@example.com
+
 
 ---
 
